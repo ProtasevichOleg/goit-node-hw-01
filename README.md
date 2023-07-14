@@ -16,9 +16,9 @@
 
 ![Додавання нового контакту](https://i.ibb.co/sKbTSJQ/image.png)
 
-### [Видалення контакту](https://ibb.co/C22cVn9)
+### [Видалення контакту](https://ibb.co/M1k9ChX)
 
-![Видалення контакту](https://i.ibb.co/GTT6CVM/image.png)
+![Видалення контакту](https://i.ibb.co/VCY3qNK/image.png)
 
 ## Використання
 
